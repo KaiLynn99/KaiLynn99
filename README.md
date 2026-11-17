@@ -87,7 +87,7 @@
 ### ✅ 取得済み
 
 - **JLPT N1** — 2026年2月
-- **ITQ OA Master** — 2022年4月
+- **ITQ OA Master（word / exel / ppt）** — 2022年4月
 
 ### 📝 受験済み・結果待ち
 
